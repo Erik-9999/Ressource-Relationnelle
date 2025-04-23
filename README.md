@@ -47,9 +47,9 @@ Pour démarrer l'application en mode développement, utilisez la commande suivan
 API Endpoints
 Voici quelques exemples d’API avec lesquelles l’application frontend interagit :
 
-GET /api/ressources : Récupérer la liste des ressources disponibles.
+ - GET /api/ressources : Récupérer la liste des ressources disponibles.
 
-- POST /api/connexion : Se connecter à un utilisateur.
+ - POST /api/connexion : Se connecter à un utilisateur.
 
 Pour plus de détails sur les endpoints, veuillez consulter le README du backend.
 
