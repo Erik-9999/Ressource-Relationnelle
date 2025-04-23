@@ -30,7 +30,7 @@ Pour démarrer l'application en mode développement, utilisez la commande suivan
  - L'application sera accessible à l'adresse suivante :
  - http://localhost:3000
 
-🛠️ Technologies utilisées
+Technologies utilisées
  - React : Librairie JavaScript pour construire des interfaces utilisateurs.
 
  - Redux : Pour la gestion de l'état global de l'application.
@@ -61,6 +61,3 @@ Fonctionnalités
  - Interface utilisateur réactive : Adaptation aux différents types d'appareils grâce au design réactif.
 
  - Recherche et filtrage : Permet de rechercher et filtrer les services disponibles.
-
-Licence
- - Ce projet est sous licence MIT - voir le fichier LICENSE pour plus de détails.
